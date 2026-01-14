@@ -36,4 +36,4 @@ I also gained confidence troubleshooting hardware and software issues, managing 
 ## 🧾 Author
 **Brandon Moran**  
 Electronics Engineering Technology (EET) | Savannah State University  
-Expected Graduation: May 2025
+Expected Graduation: May 2026
