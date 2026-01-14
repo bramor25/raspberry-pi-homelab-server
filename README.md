@@ -22,6 +22,7 @@ Throughout the project, I configured the operating system, set up Docker contain
 - SSH
 - Networking & firewall configuration
 
+
 ## 🖼️ Hardware Build Log
 
 The Raspberry Pi HomeLab system was fully disassembled and reconstructed to verify
