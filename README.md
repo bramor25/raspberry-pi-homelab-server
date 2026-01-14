@@ -23,6 +23,31 @@ Throughout the project, I configured the operating system, set up Docker contain
 - Networking & firewall configuration
 
 
+## 🖼️ Hardware Build Log
+
+This section documents the physical teardown and reconstruction of the Raspberry Pi
+HomeLab server for inspection, maintainability, and future upgrades.
+
+### Assembly & Teardown
+
+**Initial Assembly**
+![Initial Assembly](images/hardware/01-initial-assembly.jpg)
+
+**Case Opened**
+![Case Opened](images/hardware/02-case-open.jpg)
+
+**Cooling Fan Connection**
+![Fan Connection](images/hardware/03-fan-connect.jpg)
+
+**Board Exposed**
+![Board Exposed](images/hardware/04-board-exposed.jpg)
+
+**Final Assembly**
+![Final Assembly](images/hardware/05-final-assembly.jpg)
+
+
+
+
 ## 🧠 What I Learned
 This project helped me develop practical experience with Linux administration, containerization, and network configuration.  
 I also gained confidence troubleshooting hardware and software issues, managing system resources, and documenting system behavior for future upgrades.
