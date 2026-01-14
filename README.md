@@ -22,28 +22,37 @@ Throughout the project, I configured the operating system, set up Docker contain
 - SSH
 - Networking & firewall configuration
 
-
 ## 🖼️ Hardware Build Log
 
-This section documents the physical teardown and reconstruction of the Raspberry Pi
-HomeLab server for inspection, maintainability, and future upgrades.
+The Raspberry Pi HomeLab system was fully disassembled and reconstructed to verify
+hardware configuration, improve long-term maintainability, and document the physical
+layout of the system for future upgrades and troubleshooting.
 
-### Assembly & Teardown
+This process ensured proper cooling installation, correct cable routing, and reliable
+component seating.
 
-**Initial Assembly**
+### Assembly & Teardown Documentation
+
+**Initial Assembly**  
+System in operational state prior to inspection.  
 ![Initial Assembly](images/hardware/01-initial-assembly.jpg)
 
-**Case Opened**
+**Case Opened**  
+Enclosure removed to access internal components.  
 ![Case Opened](images/hardware/02-case-open.jpg)
 
-**Cooling Fan Connection**
+**Cooling Fan Installation**  
+Active cooling fan removed and reinstalled for inspection and airflow verification.  
 ![Fan Connection](images/hardware/03-fan-connect.jpg)
 
-**Board Exposed**
+**Board Exposed**  
+Raspberry Pi 5 board fully accessible for inspection and maintenance.  
 ![Board Exposed](images/hardware/04-board-exposed.jpg)
 
-**Final Assembly**
+**Final Assembly**  
+System fully reassembled and returned to operational state.  
 ![Final Assembly](images/hardware/05-final-assembly.jpg)
+
 
 
 
